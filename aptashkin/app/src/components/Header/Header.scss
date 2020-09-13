@@ -1,3 +1,8 @@
+@import './src/styles/fonts';
+@import './src/styles/variables';
+
 header {
-  background-color: red;
+  font-family: BalooTammudu2-Regular;
+  background-color: $header-color-white;
+  padding: 0.5rem 1rem;
 }
